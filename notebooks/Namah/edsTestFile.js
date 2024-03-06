@@ -1,3 +1,3 @@
-function hhhh(){
-    console.log("hhhhhhh")
+function done(){
+    console.log("done")
 }
